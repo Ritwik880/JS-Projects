@@ -1,0 +1,22 @@
+{
+  "name": "Url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.1.1",
+    "monk": "^7.3.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.5",
+    "yup": "^0.29.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
