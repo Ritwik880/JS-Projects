@@ -7,16 +7,16 @@
 [![GitHub stars](https://img.shields.io/github/stars/Ritwik880/JS-Projects.svg?style=social&label=Star&maxAge=2592000)](https://gitHub.com/Ritwik880/JS-Projects/stargazers/)
 
 
-[![GitHub issues](https://img.shields.io/github/issues/HarshCasper/Rotten-Scripts.svg)](https://github.com/Ritwik880/JS-Projects/issues)
-[![GitHub issues closed](https://img.shields.io/github/issues-closed/HarshCasper/Rotten-Scripts.svg)](https://github.com/Ritwik880/JS-Projects/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/HarshCasper/Rotten-Scripts.svg)](https://github.com/Ritwik880/JS-Projects/pulls)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/HarshCasper/Rotten-Scripts.svg)](https://github.com/Ritwik880/JS-Projects/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub issues](https://img.shields.io/github/issues/Ritwik880/JS-Projects.svg)](https://github.com/Ritwik880/JS-Projects/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/Ritwik880/JS-Projects.svg)](https://github.com/Ritwik880/JS-Projects/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Ritwik880/JS-Projects.svg)](https://github.com/Ritwik880/JS-Projects/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/Ritwik880/JS-Projects.svg)](https://github.com/Ritwik880/JS-Projects/pulls?q=is%3Apr+is%3Aclosed)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
