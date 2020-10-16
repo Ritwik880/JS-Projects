@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #JS-Projects
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -20,3 +21,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+=======
+# JS-Projects
+Collections of different types of Javascript projects
+>>>>>>> b255532987fbe6f7b1fc789cafd522bf10c3d2b9
