@@ -5,14 +5,18 @@
   "main": "index.js",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "expres": "^0.0.5",
     "express": "^4.17.1",
+    "express-rate-limit": "^5.3.0",
+    "express-slow-down": "^1.4.0",
     "helmet": "^4.1.1",
     "monk": "^7.3.2",
     "morgan": "^1.10.0",
+    "nanoid": "^3.1.23",
     "nodemon": "^2.0.5",
     "yup": "^0.29.3"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
